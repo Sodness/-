@@ -1,0 +1,8 @@
+Studying the weather condition affecting on solar panel efficiency #기상상황 전반에 따른 발전효율연구
+http://tjps.tu.edu.iq/index.php/j/article/view/995/973
+
+Steady State Analysis of Solar Energy Transmitted to Solar Panel in Hot Weather Environment and Various Wind Speed #풍속에 따른 발전효율변화 연구
+https://sci-hub.se/10.1109/icsets.2019.8744820
+
+Impact of dust on the performance of solar photovoltaic (PV) systems under United Arab Emirates weather conditions #UAE 발전데이터 분석을 통한 미세먼지에 따른 발전효율 연구
+https://www.sciencedirect.com/science/article/abs/pii/S096014811930477X
