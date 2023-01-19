@@ -1,0 +1,6 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+74,"frozenset({'치즈', '옥수수'})",frozenset({'호두'}),0.25,0.5,0.25,1.0,2.0,0.125,inf
+63,"frozenset({'옥수수', '생수'})",frozenset({'호두'}),0.25,0.5,0.25,1.0,2.0,0.125,inf
+102,"frozenset({'옥수수', '생수'})","frozenset({'치즈', '호두'})",0.25,0.5,0.25,1.0,2.0,0.125,inf
+98,"frozenset({'치즈', '옥수수'})","frozenset({'호두', '생수'})",0.25,0.5,0.25,1.0,2.0,0.125,inf
+95,"frozenset({'치즈', '옥수수', '생수'})",frozenset({'호두'}),0.25,0.5,0.25,1.0,2.0,0.125,inf
